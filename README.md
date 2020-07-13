@@ -19,8 +19,8 @@ Door Lock.lua
 -open computer
 --type "edit (insert whatever you want to call it)" paste in the code. hit crtl and use arrow keys (or wasd) to get to run and hit enter
 -click on password box
--type in pog to open door normally
--type lemon to get access to admin permissions (lets you back into the console)
+-type in pog and hit enterto open door normally
+-type lemon and hit enter to get access to admin permissions (lets you back into the console)
 
 Caveman turtle.lua
 -put down MINING turtle 
